@@ -1,0 +1,20 @@
+body{
+  overflow: hidden;
+  background-color: #CDBA96;
+}
+#p{
+  position: absolute;
+  font-style: normal;
+  font-family: serif;
+  font-size: 40px;
+  color:#132045;
+}
+.runaway{
+  position: relative;
+  left: 200px;
+  top: 390px;
+  width: 100px;
+  height: 50px;
+  background-color: #CDB5CD;
+  border-radius: 20px;
+}
