@@ -1,8 +1,5 @@
-/*in order for this script to work,
- you must create your button inside a div element with an id
- The div element can have any id
-set button id to "runaway" and that's it!
-*/
+//give the button a class named "runaway"
+//Taht's all
 function createWrapper(buttonClass, divId){
   buton = document.querySelector(buttonClass);
   var coord = buton.getBoundingClientRect();
